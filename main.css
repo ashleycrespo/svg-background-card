@@ -35,6 +35,12 @@ body {
     display: block;
     preserveAspectRatio: xMidYMid slice; /* Ensures the circle is always centered */
 }
+.background{
+    fill: #2d3460;      
+}
+.fill{
+    fill: #f5efe7;
+}
 
 /* Circle Animation */
 .pulse-circle {
