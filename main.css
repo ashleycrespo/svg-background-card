@@ -310,12 +310,24 @@ body {
         }
     }
     
-    .type-container h1 {
-        font-size: 2rem;
+    .type-container {
+        position: absolute;
+        top: 7%;
+        width: 100%;
+        text-align: center;
+        color: #2d3460;
+        z-index: 2;
+        animation: fadeIn 1s ease-in-out;
     }
-
+    
+    .type-container h1 {
+        font-size: 3rem;
+        font-weight: bold;
+    }
+    
     .type-container h2 {
-        font-size: 1.2rem;
+        font-size: 1.5rem;
+        font-weight: normal;
     }
 
     .bottom-container {
