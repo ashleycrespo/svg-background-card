@@ -290,8 +290,10 @@ body {
 @media (max-width: 768px) {
     @media (max-width: 768px) {
         .svg-background {
-            width: 200%; /* Expands SVG for mobile cropping */
+            width: 100vw; /* Expands SVG for mobile cropping */
+            height: 100vh;
             left: 50%;
+            top: 0%;
             transform: translateX(-50%);
         }
     
@@ -318,7 +320,7 @@ body {
 
     .bottom-container {
         position: absolute;
-        bottom: 2%;
+        bottom: 10%;
         width: 100%;
         display: flex;
         justify-content: center;
