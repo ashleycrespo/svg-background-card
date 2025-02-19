@@ -13,16 +13,16 @@ body {
     justify-content: center;
     height: 100vh;
     overflow: hidden;
-    background: #f4f4f4;
+    background: #f5efe7;
     position: relative;
 }
 
 /* Animated SVG Background */
 .svg-background {
     position: absolute;
-    top: 0;
-    left: 40%;
-    transform: translateX(-40%);
+    top: 50;
+    left: 50%;
+    transform: translateX(-50%, -50%);
     width: 100vw;
     height: 100vh;
     overflow: hidden;
@@ -230,9 +230,9 @@ body {
 /* Type Container */
 .type-container {
     position: absolute;
-    top: 20%;
+    top: 6%;
     text-align: center;
-    color: #333;
+    color: #2d3460;
     z-index: 2;
     width: 100%;
     animation: fadeIn 1s ease-in-out;
@@ -250,12 +250,12 @@ body {
 
 /* Fixed Bottom Container */
 .bottom-container {
-    position: fixed;
+    position: absolute;
     bottom: 0;
     width: 100%;
     display: flex;
     justify-content: space-around;
-    background: rgba(255, 255, 255, 0.9);
+    background: none;
     padding: 10px;
     text-align: center;
     z-index: 2;
