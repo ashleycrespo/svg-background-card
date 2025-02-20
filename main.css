@@ -332,16 +332,11 @@ body {
 
     .bottom-container {
         position: absolute;
-        bottom: 1%;
+        bottom: 0;
         width: 100%;
-        display: flex;
-        justify-content: center;
-        background: none;
-        padding: 10px;
-        text-align: center;
-        z-index: 10;
-        animation: fadeIn 1.5s ease-in-out;
-        gap: 80px;
+        height: 50px; /* Adjust as needed */
+        background-color: none; /* Example background color */
+        z-index: 10; /* Ensure it is above other elements */
     }
 
     .icon {
