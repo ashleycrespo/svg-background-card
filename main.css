@@ -254,7 +254,7 @@ body {
 /* Fixed Bottom Container */
 .bottom-container {
     position: absolute;
-    bottom: 15%;
+    bottom: 20%;
     left:0;
     width: 100%;
     display: flex;
