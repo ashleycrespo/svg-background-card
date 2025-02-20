@@ -264,7 +264,7 @@ body {
     text-align: center;
     z-index: 10;
     animation: fadeIn 1.5s ease-in-out;
-    gap: 108px;
+    gap: 10px;
 }
 
 /* Icon Hover Effects */
@@ -275,8 +275,8 @@ body {
     padding: 10px;
     cursor: pointer;
     transition: transform 0.2s ease, opacity 0.2s ease;
-    width: 65px;
-    height: 65px;
+    width: 200px;
+    height: 200px;
 }
 
 /* Hover Effect */
