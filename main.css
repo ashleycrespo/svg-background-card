@@ -19,8 +19,8 @@ body {
 /* Animated SVG Background */
 .svg-background {
     position: absolute;
-    top: 18%;
-    left: 14%;
+    top: 16%;
+    left: 12%;
     transform: translate(-50%,-50);
     width: 74vw;
     height: 74vh;
@@ -240,7 +240,7 @@ body {
 .type-container h1 {
     font-size: 3rem;
     font-weight: bold;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .type-container h2 {
@@ -261,7 +261,7 @@ body {
     text-align: center;
     z-index: 10;
     animation: fadeIn 1.5s ease-in-out;
-    gap: 80px;
+    gap: 108px;
 }
 
 /* Icon Hover Effects */
