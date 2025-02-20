@@ -230,6 +230,8 @@ body {
 .type-container {
     position: absolute;
     top: 5%;
+    left: 50%;
+    transform: translateX(-50%);
     width: 100%;
     text-align: center;
     color: #2d3460;
@@ -253,6 +255,7 @@ body {
 .bottom-container {
     position: absolute;
     bottom: 2%;
+    left:0;
     width: 100%;
     display: flex;
     justify-content: center;
