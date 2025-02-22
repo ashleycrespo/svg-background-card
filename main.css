@@ -252,8 +252,8 @@ body {
 }
 
 /* Fixed Bottom Container */
-.bottom-container {
-    position: relative;
+/* .bottom-container { */
+    /* position: relative;
     bottom: 0;
     left:0;
     width: 100%;
@@ -265,6 +265,18 @@ body {
     z-index: 10;
     animation: fadeIn 1.5s ease-in-out;
     gap: 1px;
+} */
+
+.bottom-container {
+    position: absolute;
+    display: flex;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    z-index: 10;
 }
 
 @supports (-webkit-appearance: none) {
