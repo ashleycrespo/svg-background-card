@@ -267,6 +267,10 @@ body {
     gap: 1px;
 }
 
+@supports (-webkit-appearance: none) {
+    .bottom-container { display: flex !important; }
+  }
+
 /* Icon Hover Effects */
 .icon {
     display: flex;
