@@ -236,7 +236,7 @@ body {
     text-align: center;
     color: #2d3460;
     z-index: 2;
-    animation: fadeIn 1s ease-in-out;
+    /* animation: fadeIn 1s ease-in-out; */
 }
 
 .type-container h1 {
