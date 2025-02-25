@@ -7,13 +7,13 @@
 .bottom-container {
     position: absolute;
     display: flex;
-    bottom: 0;
-    left: 0;
+    bottom: 4%;
+    left: 2%;
     width: 100%;
     justify-content: center;
     align-items: center;
-    padding: 10px;
-    z-index: 10;
+    padding: 20px;
+    z-index: 2;
 }
 
 @supports (-webkit-appearance: none) {
@@ -25,11 +25,11 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 2px;
+    padding: 10px;
     cursor: pointer;
     transition: transform 0.2s ease, opacity 0.2s ease;
-    width: 200px;
-    height: 200px;
+    width: 70px;
+    height: 70px;
 }
 
 /* Hover Effect */
@@ -45,18 +45,18 @@ body {
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background: none;
+    background: #f5efe7;
     position: relative;
 }
 
 /* Animated SVG Background */
 .svg-background {
     position: absolute;
-    top: 16%;
-    left: 12%;
+    top: 27%;
+    left: 25%;
     transform: translate(-50%,-50);
-    width: 74vw;
-    height: 74vh;
+    width: 53vw;
+    height: 53vh;
     overflow: hidden;
     z-index: 0;
 }
@@ -262,8 +262,8 @@ body {
 /* Type Container */
 .type-container {
     position: absolute;
-    top: 5%;
-    left: 50%;
+    top: 7%;
+    left: 52%;
     transform: translateX(-50%);
     width: 100%;
     text-align: center;
@@ -273,15 +273,15 @@ body {
 }
 
 .type-container h1 {
-    font-size: 3rem;
+    font-size: 3.7rem;
     font-weight: bold;
     margin-bottom: 10px;
 }
 
 .type-container h2 {
-    font-size: 1.5rem;
+    font-size: 1.7rem;
     font-weight: normal;
-    margin-bottom: 0;
+    margin-bottom: 0px;
 }
 
 /* Fixed Bottom Container */
@@ -342,7 +342,7 @@ body {
     
     .type-container {
         position: absolute;
-        top: 9%;
+        top: 13%;
         left: 50%;
         transform: translateX(-50%);
         width: 100%;
@@ -367,7 +367,7 @@ body {
 
     .bottom-container {
         position: absolute;
-        top: 76%;
+        top: 72%;
         left: 0%;
         bottom: 0;
         width: 100%;
