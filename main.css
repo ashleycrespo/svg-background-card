@@ -7,8 +7,8 @@
 .bottom-container {
     position: absolute;
     display: flex;
-    bottom: 4%;
-    left: 0%;
+    bottom: 0%;
+    left: 1%;
     width: 100%;
     justify-content: center;
     align-items: center;
@@ -52,11 +52,11 @@ body {
 /* Animated SVG Background */
 .svg-background {
     position: absolute;
-    top: 27%;
-    left: 23%;
+    top: 19%;
+    left: 15%;
     transform: translate(-50%,-50);
-    width: 53vw;
-    height: 53vh;
+    width: 70vw;
+    height: 70vh;
     overflow: hidden;
     z-index: 0;
 }
@@ -262,7 +262,7 @@ body {
 /* Type Container */
 .type-container {
     position: absolute;
-    top: 7%;
+    top: 5%;
     left: 50%;
     transform: translateX(-50%);
     width: 100%;
