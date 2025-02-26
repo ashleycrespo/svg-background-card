@@ -1,2 +1,6 @@
 ## Branding
 I reused an idea from high school, which was a paper cutout graphic but made it an underwater scene. Nature is an important to me especially with climate change but I wanted to show case the ocean because it’s my favorite and chose the color blue because it’s also my favorite color. Merriweather is a font that I found while working on a type project and really fell involve with it so I added that to my website. I wanted this website to deliver some of my favorite things to make it friendly and welcoming and gave a first good impression.
+## What I Learned
+I learned so much and it was my first time coding so I had no idea what anything meant at first but I was thankfully able to understand it fast. Coding is so time consuming and even for a one page website it took a while to get where I wanted it to be. The hardest part was making everything centered but I was able to overcome that struggle.
+## Animation
+The animation on my website is my favorite part and surprisingly the easiest part. I thought it was going to be just as hard as it would be on after effects but it was just plugging in numbers for the speed and position of what you want to animate.
