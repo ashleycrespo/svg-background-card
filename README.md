@@ -1,1 +1,2 @@
-# svg-background-card
+## Branding
+I reused an idea from high school, which was a paper cutout graphic but made it an underwater scene. Nature is an important to me especially with climate change but I wanted to show case the ocean because it’s my favorite and chose the color blue because it’s also my favorite color. Merriweather is a font that I found while working on a type project and really fell involve with it so I added that to my website. I wanted this website to deliver some of my favorite things to make it friendly and welcoming and gave a first good impression.
