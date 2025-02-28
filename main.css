@@ -5,9 +5,9 @@
     box-sizing: border-box;
 }
 .bottom-container {
-    position: absolute;
+    position: none;
     display: flex;
-    bottom: 0%;
+    bottom: 5%;
     left: 1%;
     width: 100%;
     justify-content: center;
